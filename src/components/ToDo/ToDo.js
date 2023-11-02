@@ -1,16 +1,14 @@
 import { useState } from 'react';
 
 
-const ToDO = () => {
-
-
+const ToDo = () => {
 
     return (
         <>
-            <h3>ToDO</h3>
+            <h3>ToDo</h3>
 
         </>
     );
 }
 
-export default ToDO;
+export default ToDo;
